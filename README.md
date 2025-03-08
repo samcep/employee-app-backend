@@ -92,11 +92,6 @@ Para ejecutar el proyecto:
 1. Asegúrate de que el proyecto está configurado correctamente en **Visual Studio**.
 2. Presiona **Ctrl+F5** para ejecutar el proyecto sin depuración o **F5** para ejecutarlo con depuración.
 
-### 9. Consideraciones adicionales
-
-- Este proyecto utiliza **AutoMapper** para mapear objetos de DTO a entidades y viceversa.
-- El controlador de empleados maneja las operaciones CRUD básicas con validaciones y lógica de negocio.
-
 ---
 
 ¡Eso es todo! Ahora tu proyecto debería estar listo para ser ejecutado.

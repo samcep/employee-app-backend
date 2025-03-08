@@ -26,7 +26,7 @@ git clone https://github.com/samcep/employee-app-backend.git
 
 1. Abre Visual Studio.
 2. Ve a **Archivo** > **Abrir** > **Proyecto/Solución y/o .csproj**.
-3. Selecciona el archivo `.sln` que se encuentra en la raíz del proyecto clonado (`employee-app.sln y/o employee-app.csproj`).
+3. Selecciona el archivo `employee-app.csproj` que se encuentra en la raíz del proyecto clonado .Asegúrate de abrirlo en visual studio.
 
 ### 3. Configurar la cadena de conexión
 

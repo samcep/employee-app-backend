@@ -35,7 +35,7 @@ La cadena de conexión se encuentra en el archivo `appsettings.Development.json`
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database={{YOUR_DATABASE}};Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "Server=localhost; Database={{YOUR_DATABASE}}; Integrated Security=True; TrustServerCertificate=True"
   }
 }
 ```
